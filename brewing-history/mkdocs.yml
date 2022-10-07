@@ -1,0 +1,7 @@
+site_name: Brewing History
+
+nav:
+  - Home: index.md  
+  - Equipment: equipment.md
+
+theme: readthedocs
