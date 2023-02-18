@@ -62,6 +62,12 @@ I *think* this is the right one...:
 
 [Product page](https://www.morebeer.com/products/fermometer-adhesive-thermometer.html)
 
+## Fermonster Lid Opener
+
+![](img/fermonster-lid-opener.png)
+
+[Product page](https://www.morebeer.com/products/fermonster-lid-opener.html)
+
 ## Triple Scale Hydrometer
 
 ![](img/hydrometer.png)
@@ -85,3 +91,16 @@ I *think* this is the right one...:
 ![](img/silicone-tubing.png)
 
 [Product page](https://www.morebeer.com/products/tubing-silicone-38-id.html)
+
+## Erlenmeyer Flask - 1000 mL
+
+![](img/erlenmeyer-flask.jpg)
+
+[Product page](https://www.morebeer.com/products/erlenmeyer-flask-1000-ml.html)
+
+## Wort Whipper Super Compact Magnetic Stir Plate
+
+![](img/stir-plate.png)
+
+[Product page](https://www.morebeer.com/products/wort-whipper-super-compact-magnetic-stir-plate.html)
+
