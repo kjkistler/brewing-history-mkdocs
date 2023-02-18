@@ -1,0 +1,7 @@
+mkdocs new my-project
+
+mkdocs build
+
+mkdocs serve
+
+mkdocs gh-deploy

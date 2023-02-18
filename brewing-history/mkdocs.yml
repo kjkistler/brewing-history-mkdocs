@@ -1,14 +1,25 @@
 site_name: Brewing History
 
+site_url: https://kjkistler.github.io/brewing-history-mkdocs/
+
 nav:
   - Home: index.md  
   - Equipment: equipment.md
+  - Supplies: supplies.md
   - 2022 Brews:
     - American Pale Ale II: 2022-brews/american-pale-ale-ii-january-15-2022.md
     - Eskimo Amber Ale: 2022-brews/eskimo-amber-ale-february-20-2022.md
     - Columbus IPA: 2022-brews/columbus-ipa-april-10-2022.md
     - Hop Blonde Ale: 2022-brews/hop-blonde-ale-july-02-2022.md
     - German Hefeweizen: 2022-brews/german-hefeweizen-september-10-2022.md
-    
+    - Ugly Fish IPA: 2022-brews/ugly-fish-ipa-november-05-2022.md
+  - Ingredients Catalog:
+    - Steeping Grains: ingredients-catalog/steeping-grains.md
+    - Malt Extract: ingredients-catalog/malt-extract.md
+    - Hops: ingredients-catalog/hops.md
+    - Yeast: ingredients-catalog/yeast.md
 
-theme: readthedocs
+# theme: readthedocs
+
+theme:
+  name: material

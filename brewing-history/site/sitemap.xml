@@ -1,38 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/equipment/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/supplies/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2022-brews/american-pale-ale-ii-january-15-2022/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2022-brews/columbus-ipa-april-10-2022/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2022-brews/eskimo-amber-ale-february-20-2022/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-10-07</lastmod>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2022-brews/german-hefeweizen-september-10-2022/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2022-brews/hop-blonde-ale-july-02-2022/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2022-brews/ugly-fish-ipa-november-05-2022/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/ingredients-catalog/hops/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/ingredients-catalog/malt-extract/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/ingredients-catalog/steeping-grains/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/ingredients-catalog/yeast/</loc>
+         <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
