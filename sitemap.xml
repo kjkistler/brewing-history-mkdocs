@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/2023-brews/my-experiment/</loc>
+         <lastmod>2023-06-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kjkistler.github.io/brewing-history-mkdocs/ingredients-catalog/hops/</loc>
          <lastmod>2023-06-04</lastmod>
          <changefreq>daily</changefreq>
