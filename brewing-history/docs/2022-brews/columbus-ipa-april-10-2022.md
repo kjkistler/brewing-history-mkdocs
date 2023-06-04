@@ -2,7 +2,7 @@
 
 ![](../img/columbus-ipa.png)
 
-* **Date brewed:** XX, 2022
+* **Date brewed:** April 10, 2022
 * **Brew team:** Kenny (team lead), Joe, Adam, Mike M., Ally  
 
 ## Recipe Kit

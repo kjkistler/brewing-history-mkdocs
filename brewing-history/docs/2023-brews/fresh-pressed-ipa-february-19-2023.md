@@ -1,4 +1,4 @@
-# Ugly Fish IPA
+# Fresh Pressed IPA
 
 ![](../img/ugly-fish-ipa.jpg)
 

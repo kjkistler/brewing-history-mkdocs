@@ -2,7 +2,7 @@
 
 ![](../img/german-hefeweizen.jpg)
 
-* **Date brewed:** February XX, 2022
+* **Date brewed:** September 10, 2022
 * **Brew team:** Kenny (team lead), Joe  
 
 ## Recipe Kit

@@ -1,9 +1,9 @@
-# Eskimo Amber Ale
+# Anchorage Amber Ale
 
-![](../img/eskimo-amber-ale.png)
+![](../img/ugly-fish-ipa.jpg)
 
-* **Date brewed:** February 20, 2022
-* **Brew team:** Kenny (team lead), Michael, Adam, Anthony, Ally  
+* **Date brewed:** April 29, 2023
+* **Brew team:** Kenny (team lead), Adam, Anthony, Mike M., Ally
 
 ## Recipe Kit
 

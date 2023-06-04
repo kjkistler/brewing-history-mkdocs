@@ -2,7 +2,7 @@
 
 ![](../img/hop-blonde-ale.png)
 
-* **Date brewed:** XX XX, 2022
+* **Date brewed:** July 2, 2022
 * **Brew team:** Kenny (team lead), Joe, Ally
 
 ## Recipe Kit
