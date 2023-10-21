@@ -6,7 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/beer-pairings/</loc>
+         <lastmod>2023-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kjkistler.github.io/brewing-history-mkdocs/equipment/</loc>
+         <lastmod>2023-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kjkistler.github.io/brewing-history-mkdocs/srm-values/</loc>
          <lastmod>2023-10-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
