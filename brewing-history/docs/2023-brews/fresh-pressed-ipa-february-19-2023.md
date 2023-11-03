@@ -1,17 +1,33 @@
 # Fresh Pressed IPA
 
-![](../img/ugly-fish-ipa.jpg)
+![](../img/fresh-pressed-ipa.jpg)
 
-* **Date brewed:** November 5, 2022
-* **Brew team:** Kenny (team lead), Adam, Anthony, Ally
+* **Date brewed:** Sunday, February 19, 2023 (yeast starter night before)
+* **Brew team:** Kenny (team lead), Adam, Anthony, Mike M.
+* **Original gravity:** 1.063
+* **Days in fermenter:** 14
+* **Fermentation temperature:** 64-68°
+* **Final gravity:** 1.015
+* **ABV:** 6.3%
+* **Appearance:** 8 SRM (Pale Amber) 
 
 ## Recipe Kit
 
-[Product page](https://www.morebeer.com/products/sculpin-ipa-clone-ugly-fish-extract.html)
+[Product page](https://www.morebeer.com/products/fresh-squeezed-ipa-clone-pressed-extract.html)
 
-[PDF](../ugly-fish-ipa.pdf)
+[PDF](../fresh-pressed-ipa.pdf)
 
 ## Ingredients
+
+### Yeast Starter
+
+#### Wort
+
+[Bavarian Wheat DME](https://www.morebeer.com/products/wheat-dry-malt-extract-dme.html) (how much?)
+
+#### Yeast
+
+[CellarScience® CALI Dry Yeast](https://www.morebeer.com/products/cellarscience-cali-dry-yeast.html)
 
 ### Water 
 
@@ -19,88 +35,23 @@
 
 ### Steeping Grains
 
-#### 8 oz. Crystal 10L
-
-![](../img/crystal-10l-malt.png)
-
-[Product page](https://www.morebeer.com/products/briess-caramel-10l-malt.html)
+* 2 lbs. Munich (not sure which one)
+* [12 oz. Crystal 75L](https://www.morebeer.com/products/great-western-crystal-75l-malt.html)
 
 ### Malt Extract
 
-#### 11 lbs. Ultralight Malt Extract (LME)
+[9 lbs. Pale Liquid Extract (LME)](https://www.morebeer.com/products/pale-malt-extract-lme.html)
 
-![](../img/ultralight-lme.jpg)
+### Hops (Pellets)
 
-[Product page](https://www.morebeer.com/products/ultralight-malt-extract-lme.html)
-
-### Hops
-
-#### 0.5 oz. Warrior Hops (Pellets)
-
-![](../img/warrior-hops.png)
-
-[Product page](https://www.morebeer.com/products/warrior-hops-pellets.html)
-
-#### 1 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 2 oz. Centennial Hops (Pellets)
-
-![](../img/centennial-hops.png)
-
-[Product page](https://www.morebeer.com/products/centennial-hops-pellets.html)
-
-#### 1 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 1 oz. Simcoe Hops (Pellets)
-
-![](../img/simcoe-hops.png)
-
-[Product page](https://www.morebeer.com/products/simcoe-hops-pellets.html)
-
-#### 1 oz. Chinook Hops (Pellets)
-
-![](../img/chinook-hops.png)
-
-[Product page](https://www.morebeer.com/products/chinook-hops-pellets.html)
-
-#### 1 oz. Simcoe Hops (Pellets)
-
-![](../img/simcoe-hops.png)
-
-[Product page](https://www.morebeer.com/products/simcoe-hops-pellets.html)
-
-#### 1 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 1 oz. Simcoe Hops (Pellets)
-
-![](../img/simcoe-hops.png)
-
-[Product page](https://www.morebeer.com/products/simcoe-hops-pellets.html)
+* 60 minutes: [.5 oz. Nugget](https://www.morebeer.com/products/nugget-hops-pellets.html)
+* 15 minutes: [1 oz. Citra](https://www.morebeer.com/products/citra-hops-pellets.html)
+* 15 minutes: [1 oz. Mosaic](https://www.morebeer.com/products/mosaic-hops-pellets.html)
+* Flameout: [1 oz. Citra](https://www.morebeer.com/products/citra-hops-pellets.html)
+* Day 9 (dry-hopping): [1 oz. Citra](https://www.morebeer.com/products/citra-hops-pellets.html)
+* Day 9 (dry-hopping): [1 oz. Mosaic](https://www.morebeer.com/products/mosaic-hops-pellets.html)
 
 ### Clarifier
 
-#### 1 KICK Carrageenan Micro-T Tablet
+(not sure which one)
 
-![](../img/kick-carrageenan.jpg)
-
-[Product page](https://www.morebeer.com/products/kick-carrageenan-microt-tablets.html)
-
-### Yeast
-
-#### CellarScience® CALI Dry Yeast
-
-![](../img/cali.png)
-
-[Product page](https://www.morebeer.com/products/cellarscience-cali-dry-yeast.html)

@@ -4,24 +4,26 @@ site_url: https://kjkistler.github.io/brewing-history-mkdocs/
 
 nav:
   - Home: index.md  
-  - Equipment: equipment.md
-  - Supplies: supplies.md
   - 2022 Brews:
     - American Pale Ale II: 2022-brews/american-pale-ale-ii-january-15-2022.md
     - Eskimo Amber Ale: 2022-brews/eskimo-amber-ale-february-20-2022.md
-    - Columbus IPA: 2022-brews/columbus-ipa-april-10-2022.md
+    - Columbus IPA (Palm Sunday IPA): 2022-brews/columbus-ipa-april-10-2022.md
     - Hop Blonde Ale: 2022-brews/hop-blonde-ale-july-02-2022.md
     - German Hefeweizen: 2022-brews/german-hefeweizen-september-10-2022.md
     - Ugly Fish IPA: 2022-brews/ugly-fish-ipa-november-05-2022.md
   - 2023 Brews:
     - Fresh Pressed IPA: 2023-brews/fresh-pressed-ipa-february-19-2023.md
     - Anchorage Amber Ale: 2023-brews/anchorage-amber-ale-april-29-2023.md
-    - My Experiment: 2023-brews/my-experiment.md
+    - Spoondick IPA: 2023-brews/spoondick-ipa-july-23-2023.md
+  - Equipment: equipment.md
+  - Supplies: supplies.md  
   - Ingredients Catalog:
     - Steeping Grains: ingredients-catalog/steeping-grains.md
     - Malt Extract: ingredients-catalog/malt-extract.md
     - Hops: ingredients-catalog/hops.md
     - Yeast: ingredients-catalog/yeast.md
+  - SRM Values: srm-values.md
+  - Beer Pairings: beer-pairings.md
 
 # theme: readthedocs
 

@@ -20,12 +20,6 @@ This page documents all of my brewing equipment.
 
 [Product page](https://www.morebeer.com/products/immersion-wort-chiller-25-ft-38.html)
 
-### Sink Faucet Adapter - Stainless
-
-![](img/chiller-faucet-adapter.png)
-
-[Product page](https://www.morebeer.com/products/sink-faucet-adapter-stainless.html)
-
 ## Stainless Steel Brewing Spoon - 21 in.
 
 ![](img/spoon.jpg)

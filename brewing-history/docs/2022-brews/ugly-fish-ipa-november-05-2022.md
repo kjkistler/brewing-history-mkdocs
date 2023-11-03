@@ -2,8 +2,14 @@
 
 ![](../img/ugly-fish-ipa.jpg)
 
-* **Date brewed:** November 5, 2022
+* **Date brewed:** Saturday, November 5, 2022 (yeast starter night before)
 * **Brew team:** Kenny (team lead), Adam, Anthony, Ally
+* **Original gravity:** 1.072
+* **Days in fermenter:** 18
+* **Fermentation temperature:** 66-70°
+* **Final gravity:** 1.014
+* **ABV:** 7.6%
+* **Appearance:** 12 SRM (Medium Amber) 
 
 ## Recipe Kit
 
@@ -13,94 +19,40 @@
 
 ## Ingredients
 
-### Water 
+### Yeast Starter
+
+#### Wort
+
+[Bavarian Wheat DME](https://www.morebeer.com/products/wheat-dry-malt-extract-dme.html) (how much?)
+
+#### Yeast
+
+[CellarScience® CALI Dry Yeast](https://www.morebeer.com/products/cellarscience-cali-dry-yeast.html)
+
+### Water
 
 6 gallons of distilled water
 
 ### Steeping Grains
 
-#### 8 oz. Crystal 10L
-
-![](../img/crystal-10l-malt.png)
-
-[Product page](https://www.morebeer.com/products/briess-caramel-10l-malt.html)
+[8 oz. Crystal 10L](https://www.morebeer.com/products/briess-caramel-10l-malt.html)
 
 ### Malt Extract
 
-#### 11 lbs. Ultralight Malt Extract (LME)
+[11 lbs. Ultralight Malt Extract (LME)](https://www.morebeer.com/products/ultralight-malt-extract-lme.html)
 
-![](../img/ultralight-lme.jpg)
+### Hops (Pellets)
 
-[Product page](https://www.morebeer.com/products/ultralight-malt-extract-lme.html)
-
-### Hops
-
-#### 0.5 oz. Warrior Hops (Pellets)
-
-![](../img/warrior-hops.png)
-
-[Product page](https://www.morebeer.com/products/warrior-hops-pellets.html)
-
-#### 1 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 2 oz. Centennial Hops (Pellets)
-
-![](../img/centennial-hops.png)
-
-[Product page](https://www.morebeer.com/products/centennial-hops-pellets.html)
-
-#### 1 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 1 oz. Simcoe Hops (Pellets)
-
-![](../img/simcoe-hops.png)
-
-[Product page](https://www.morebeer.com/products/simcoe-hops-pellets.html)
-
-#### 1 oz. Chinook Hops (Pellets)
-
-![](../img/chinook-hops.png)
-
-[Product page](https://www.morebeer.com/products/chinook-hops-pellets.html)
-
-#### 1 oz. Simcoe Hops (Pellets)
-
-![](../img/simcoe-hops.png)
-
-[Product page](https://www.morebeer.com/products/simcoe-hops-pellets.html)
-
-#### 1 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 1 oz. Simcoe Hops (Pellets)
-
-![](../img/simcoe-hops.png)
-
-[Product page](https://www.morebeer.com/products/simcoe-hops-pellets.html)
+* 60 minutes: [0.5 oz. Warrior Hops](https://www.morebeer.com/products/warrior-hops-pellets.html)
+* 20 minutes: [1 oz. Cascade Hops](https://www.morebeer.com/products/cascade-hops-pellets.html)
+* 20 minutes: [2 oz. Centennial Hops](https://www.morebeer.com/products/centennial-hops-pellets.html)
+* 5 minutes: [1 oz. Cascade Hops](https://www.morebeer.com/products/cascade-hops-pellets.html)
+* 5 minutes: [1 oz. Simcoe Hops](https://www.morebeer.com/products/simcoe-hops-pellets.html)
+* 1 minute: [1 oz. Chinook Hops](https://www.morebeer.com/products/chinook-hops-pellets.html)
+* 1 minute: [1 oz. Simcoe Hops](https://www.morebeer.com/products/simcoe-hops-pellets.html)
+* Day 12 (dry-hopped): [1 oz. Cascade Hops](https://www.morebeer.com/products/cascade-hops-pellets.html)
+* Day 12 (dry-hopped): [1 oz. Simcoe Hops](https://www.morebeer.com/products/simcoe-hops-pellets.html)
 
 ### Clarifier
 
-#### 1 KICK Carrageenan Micro-T Tablet
-
-![](../img/kick-carrageenan.jpg)
-
-[Product page](https://www.morebeer.com/products/kick-carrageenan-microt-tablets.html)
-
-### Yeast
-
-#### CellarScience® CALI Dry Yeast
-
-![](../img/cali.png)
-
-[Product page](https://www.morebeer.com/products/cellarscience-cali-dry-yeast.html)
+[1 KICK Carrageenan Micro-T Tablet](https://www.morebeer.com/products/kick-carrageenan-microt-tablets.html)

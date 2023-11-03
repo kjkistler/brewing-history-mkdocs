@@ -2,8 +2,14 @@
 
 ![](../img/american-pale-ale-ii.jpg)
 
-* **Date brewed:** January 15, 2022
-* **Brew team:** Michael (team lead), Kenny, Adam, Ally  
+* **Date brewed:** Saturday, January 15, 2022 (yeast starter night before)
+* **Brew team:** Michael (team lead), Kenny, Adam, Ally
+* **Original gravity:** 1.050
+* **Days in fermenter:** 14
+* **Fermentation temperature:** 68-72°
+* **Final gravity:** 1.011
+* **ABV:** 5.4%
+* **Appearance:** 9 SRM (Pale Amber)
 
 ## Recipe Kit
 
@@ -13,75 +19,35 @@
 
 ## Ingredients
 
+### Yeast Starter
+
+#### Wort
+
+[Propper Starter Condensed Wort 16 oz Can](https://omegayeast.com/propper/propper-starter)
+
+#### Yeast
+
+[Safale US-05 American Ale (Dry) Yeast - Fermentis](https://www.morebeer.com/products/safale-us05-american-ale-yeast-fermentis.html)
+
 ### Water 
 
 6 gallons of distilled water
 
 ### Steeping Grains
 
-#### 1.5 lbs. Crystal 15L
-
-![](../img/crystal-15l-malt.png)
-
-*1-lb. bag shown*
-
-[Product page](https://www.morebeer.com/products/great-western-crystal-15l-malt.html)
-
-#### 8oz. Honey Malt
-
-![](../img/honey-malt.png)
-
-*1-lb. bag shown*
-
-[Product page](https://www.morebeer.com/products/gambrinus-honey-malt.html)
+* [1.5 lbs. Crystal 15L](https://www.morebeer.com/products/great-western-crystal-15l-malt.html)
+* [8oz. Honey Malt](https://www.morebeer.com/products/gambrinus-honey-malt.html)
 
 ### Malt Extract
 
-#### 8 lbs. Ultralight Malt Extract (LME)
+[8 lbs. Ultralight Malt Extract (LME)](https://www.morebeer.com/products/ultralight-malt-extract-lme.html)
 
-![](../img/ultralight-lme.jpg)
+### Hops (Pellets)
 
-[Product page](https://www.morebeer.com/products/ultralight-malt-extract-lme.html)
-
-### Hops
-
-#### 1. oz Magnum Bittering Hops (Pellets)
-
-![](../img/magnum-bittering-hops.png)
-
-[Product page](https://www.morebeer.com/products/magnum-hops-pellets.html)
-
-#### 2 oz. Cascade Hops (Pellets)
-
-![](../img/cascade-hops.png)
-
-[Product page](https://www.morebeer.com/products/cascade-hops-pellets.html)
-
-#### 2 oz. Willamette Hops (Pellets)
-
-![](../img/willamette-hops.png)
-
-[Product page](https://www.morebeer.com/products/willamette-hops-pellets.html)
+* 60 minutes: [1. oz Magnum Bittering Hops](https://www.morebeer.com/products/magnum-hops-pellets.html)
+* 5 minutes: [2 oz. Cascade Hops](https://www.morebeer.com/products/cascade-hops-pellets.html)
+* 1 minute: [2 oz. Willamette Hops](https://www.morebeer.com/products/willamette-hops-pellets.html)
 
 ### Clarifier
 
-#### 1 Whirfloc Tablet
-
-![](../img/whirlfloc-tablet.png)
-
-[Product page](https://www.morebeer.com/products/whirlfloc-tablets.html)
-
-### Yeast
-
-#### Safale US-05 American Ale (Dry) Yeast - Fermentis
-
-![](../img/safale-us-05.png)
-
-[Product page](https://www.morebeer.com/products/safale-us05-american-ale-yeast-fermentis.html)
-
-#### Propper Starter Condensed Wort 16 oz Can
-
-![](../img/propper-starter.jpg)
-
-[Product page](https://omegayeast.com/propper/propper-starter)
-
+[1 Whirfloc Tablet](https://www.morebeer.com/products/whirlfloc-tablets.html)
